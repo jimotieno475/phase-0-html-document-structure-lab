@@ -3,7 +3,7 @@
     <html lang="en"></html>
     <!-- This is a comment! -->
     <head>
-
+        <link rel="stylesheet" type="text/css" href="style.css" />
     </head>
     <body>
         <link rel="stylesheet" type="text/css" href="style.css" />
